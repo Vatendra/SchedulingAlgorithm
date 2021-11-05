@@ -1,4 +1,4 @@
-# Operating Scheduling Algorithms
+# Operating System (OS) Scheduling Algorithms
 
 > This project contains various scheduling algorithms in the Operating Systems.
 
