@@ -1,5 +1,6 @@
 class Fcfs:
-    """ Takes a list of process as input with pid, arrival time and burst time, and calculates rest"""
+    """ Takes a list of process as input with pid, arrival time and burst time, and calculates completion time on
+    first come first serve basis """
     process_list = []
 
     def __init__(self, process_list):
